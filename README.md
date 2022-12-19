@@ -11,7 +11,7 @@ Add the KulfySDK package as a dependency using its repository URL, as follows:
  2. Click on the + button and enter the repository URL and click Add Package button.
  3. import KulfyFramwork
 ```swift
-import KulfyFramwork
+import KulfySDK
 ```
  4. Open Kulfy GIF popup
 ```swift
